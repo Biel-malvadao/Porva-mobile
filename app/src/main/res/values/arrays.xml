@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities_array">
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Brasília</item>
+        <item>Salvador</item>
+        <item>Fortaleza</item>
+        <item>Belo Horizonte</item>
+        <item>Manaus</item>
+        <item>Curitiba</item>
+        <item>Recife</item>
+        <item>Porto Alegre</item>
+        <item>Belém</item>
+        <item>Goiânia</item>
+        <item>Guarulhos</item>
+        <item>Campinas</item>
+        <item>São Luís</item>
+        <item>São Gonçalo</item>
+        <item>Maceió</item>
+        <item>Duque de Caxias</item>
+        <item>Natal</item>
+        <item>Teresina</item>
+        <item>São Bernardo do Campo</item>
+        <item>Osasco</item>
+        <item>Santo André</item>
+        <item>João Pessoa</item>
+        <item>Jaboatão dos Guararapes</item>
+        <item>São José dos Campos</item>
+        <item>Contagem</item>
+        <item>Campo Grande</item>
+        <item>Sorocaba</item>
+        <!-- Adicione mais cidades conforme necessário -->
+    </string-array>
+    <string-array name="states_array">
+        <item>Acre (AC)</item>
+        <item>Alagoas (AL)</item>
+        <item>Amapá (AP)</item>
+        <item>Amazonas (AM)</item>
+        <item>Bahia (BA)</item>
+        <item>Ceará (CE)</item>
+        <item>Distrito Federal (DF)</item>
+        <item>Espírito Santo (ES)</item>
+        <item>Goiás (GO)</item>
+        <item>Maranhão (MA)</item>
+        <item>Mato Grosso (MT)</item>
+        <item>Mato Grosso do Sul (MS)</item>
+        <item>Minas Gerais (MG)</item>
+        <item>Pará (PA)</item>
+        <item>Paraíba (PB)</item>
+        <item>Paraná (PR)</item>
+        <item>Pernambuco (PE)</item>
+        <item>Piauí (PI)</item>
+        <item>Rio de Janeiro (RJ)</item>
+        <item>Rio Grande do Norte (RN)</item>
+        <item>Rio Grande do Sul (RS)</item>
+        <item>Rondônia (RO)</item>
+        <item>Roraima (RR)</item>
+        <item>Santa Catarina (SC)</item>
+        <item>São Paulo (SP)</item>
+        <item>Sergipe (SE)</item>
+        <item>Tocantins (TO)</item>
+    </string-array>
+
+</resources>
